@@ -1,0 +1,84 @@
+INFO,Sun Jun 02 16:36:26 EEST 2019,PROGRAM STARTED,global
+INFO,Sun Jun 02 16:36:26 EEST 2019,Give access to services,global
+INFO,Sun Jun 02 16:36:26 EEST 2019,Get all available currencies,global
+INFO,Sun Jun 02 16:36:26 EEST 2019,Get exchanging rates for user,global
+INFO,Sun Jun 02 16:36:26 EEST 2019,STARTING THE TRANSACTIONS,global
+INFO,Sun Jun 02 16:36:29 EEST 2019,There were 0 transactions registered,global
+INFO,Sun Jun 02 16:36:29 EEST 2019,Searching for a specific user,global
+INFO,Sun Jun 02 17:16:47 EEST 2019,PROGRAM STARTED,global
+INFO,Sun Jun 02 17:16:47 EEST 2019,Give access to services,global
+INFO,Sun Jun 02 17:16:47 EEST 2019,Get all available currencies,global
+INFO,Sun Jun 02 17:16:47 EEST 2019,Get exchanging rates for user,global
+INFO,Sun Jun 02 17:16:47 EEST 2019,STARTING THE TRANSACTIONS,global
+INFO,Mon Jun 03 01:24:45 EEST 2019,PROGRAM STARTED,global
+INFO,Mon Jun 03 01:24:46 EEST 2019,Give access to services,global
+INFO,Mon Jun 03 01:24:46 EEST 2019,Get all available currencies,global
+INFO,Mon Jun 03 01:24:46 EEST 2019,Get exchanging rates for user,global
+INFO,Mon Jun 03 01:24:46 EEST 2019,STARTING THE TRANSACTIONS,global
+INFO,Mon Jun 03 01:24:51 EEST 2019,There were 0 transactions registered,global
+INFO,Mon Jun 03 01:24:51 EEST 2019,Searching for a specific user,global
+INFO,Mon Jun 03 01:24:52 EEST 2019,Get info about currency buys&sales,global
+INFO,Mon Jun 03 01:24:52 EEST 2019,Get info about currency left in the exchange office,global
+INFO,Mon Jun 03 01:24:52 EEST 2019,PROGRAM ENDED
+
+,global
+INFO,Sat May 28 17:18:13 EEST 2022,PROGRAM STARTED,global
+INFO,Sat May 28 17:18:13 EEST 2022,Give access to services,global
+INFO,Sat May 28 17:18:13 EEST 2022,Get all available currencies,global
+INFO,Sat May 28 17:18:13 EEST 2022,Get exchanging rates for user,global
+INFO,Sat May 28 17:18:13 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:01:52 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:01:52 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:01:52 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:01:52 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:01:52 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:06:36 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:06:36 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:06:36 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:06:36 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:06:36 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:12:05 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:12:05 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:12:05 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:12:05 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:12:05 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:18:55 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:18:55 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:18:55 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:18:55 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:18:55 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:43:00 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:43:00 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:43:00 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:43:00 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:43:00 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:45:06 EEST 2022,PROGRAM ENDED
+
+,global
+INFO,Sun May 29 23:47:32 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:47:32 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:47:32 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:47:32 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:47:32 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:47:54 EEST 2022,There were 1 transactions registered,global
+WARNING,Sun May 29 23:47:54 EEST 2022,Transaction 1 failed!,global
+INFO,Sun May 29 23:47:54 EEST 2022,Searching for a specific user,global
+WARNING,Sun May 29 23:48:03 EEST 2022,NO USER - dan - FOUND,global
+INFO,Sun May 29 23:48:03 EEST 2022,Get info about currency buys&sales,global
+INFO,Sun May 29 23:48:03 EEST 2022,Get info about currency left in the exchange office,global
+INFO,Sun May 29 23:48:03 EEST 2022,PROGRAM ENDED
+
+,global
+INFO,Sun May 29 23:50:38 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:50:38 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:50:38 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:50:38 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:50:38 EEST 2022,STARTING THE TRANSACTIONS,global
+INFO,Sun May 29 23:53:02 EEST 2022,There were 1 transactions registered,global
+WARNING,Sun May 29 23:53:02 EEST 2022,Transaction 1 failed!,global
+INFO,Sun May 29 23:53:02 EEST 2022,Searching for a specific user,global
+INFO,Sun May 29 23:55:34 EEST 2022,PROGRAM STARTED,global
+INFO,Sun May 29 23:55:34 EEST 2022,Give access to services,global
+INFO,Sun May 29 23:55:34 EEST 2022,Get all available currencies,global
+INFO,Sun May 29 23:55:34 EEST 2022,Get exchanging rates for user,global
+INFO,Sun May 29 23:55:34 EEST 2022,STARTING THE TRANSACTIONS,global

@@ -1,0 +1,9 @@
+Currency Name,Currency Code,Currency Symbol,Quantity,Rate (1$ to currency)
+Euro,EUR,€,1000.0,0.890452
+United States Dollar,USD,$,1000.0,1.000000
+British Pound,GBP,£,1000.0,0.765682
+Romanian leu,RON,lei,10000.0,4.243342
+Moldovan leu,MDL,L,20000.0,17.374685
+Russian ruble,RUB,₽,80000.0,65.469646
+Swiss franc,CHF,Fr,1000.0,0.994877
+Indian Rupee,INR,₹,100000.0,69.180214
