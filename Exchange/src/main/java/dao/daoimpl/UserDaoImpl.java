@@ -12,45 +12,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class UserDaoImpl implements UserDao {
-//    @Override
-//    public void createUserTable() {
-//        Connection conn = null;
-//        Statement stmt = null;
-//
-//        try {
-//            conn = ConnectionUtils.getConnection();
-//            stmt = conn.createStatement();
-//
-//            String sqlCommand = "CREATE TABLE IF NOT EXISTS users (" +
-//                    "u_id INT(64) PRIMARY KEY UNIQUE NOT NULL AUTO_INCREMENT," +
-//                    "u_firstname VARCHAR(20) NOT NULL," +
-//                    "u_lastname VARCHAR(20) NOT NULL," +
-//                    "u_username VARCHAR(30) NOT NULL," +
-//                    "u_password VARCHAR(30) NOT NULL," +
-//                    "u_country VARCHAR(30)," +
-//                    "u_address VARCHAR(30)" +
-//                    ")";
-//            stmt.execute(sqlCommand);
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        } finally {
-//            if (stmt != null) {
-//                try {
-//                    stmt.close();
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//
-//            if (conn != null) {
-//                try {
-//                    conn.close();
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }
-//    }
 
     @Override
     public void insert(User user) {

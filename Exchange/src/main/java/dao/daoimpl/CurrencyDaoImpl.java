@@ -13,44 +13,6 @@ import java.util.List;
 import java.util.Map;
 
 public class CurrencyDaoImpl implements CurrencyDao {
-//    @Override
-//    public void createCurrencyTable() {
-//        Connection conn = null;
-//        Statement stmt = null;
-//
-//        try {
-//            conn = ConnectionUtils.getConnection();
-//            stmt = conn.createStatement();
-//
-//            String sqlCommand = "CREATE TABLE IF NOT EXISTS currency (" +
-//                                "c_id INT(64) PRIMARY KEY UNIQUE NOT NULL AUTO_INCREMENT," +
-//                                "c_name VARCHAR(20) NOT NULL," +
-//                                "c_symbol VARCHAR(5) NOT NULL," +
-//                                "c_code VARCHAR(3) NOT NULL," +
-//                                "c_quantity DOUBLE(30, 4),"+
-//                                "c_rate DOUBLE(30, 4)" +
-//                                ")";
-//            stmt.execute(sqlCommand);
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        } finally {
-//            if (stmt != null) {
-//                try {
-//                    stmt.close();
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//
-//            if (conn != null) {
-//                try {
-//                    conn.close();
-//                } catch (Exception e) {
-//                    e.printStackTrace();
-//                }
-//            }
-//        }
-//    }
 
     @Override
     public void insert(ExchangeRate exchangeRate) {

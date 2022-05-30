@@ -99,6 +99,7 @@ public class Ops {
 
         Currency fromCurrency = transaction.getFromCurrency();
         Currency toCurrency = transaction.getToCurrency();
+        dbC.selectByCode(fromCurrency.getCurrencyCode());
         double fromSum = transaction.getFromSum();
         double toSum = ERS.exchange(fromCurrency.getCurrencyCode(), toCurrency.getCurrencyCode(), fromSum);
         ExchangeOffice exchangeOffice = ExchangeOffice.getInstance();
